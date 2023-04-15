@@ -6,3 +6,8 @@
     url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;400;500;700&display=swap') format('woff2');
   unicode-range: U+4E00-9FFF;
 }
+
+* {
+  font-family: 'TC';
+}
+    
